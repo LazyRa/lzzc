@@ -17,7 +17,5 @@
         $("#sfz").val ("620102199804174356");
         $("#temp").val("36.2");
         $("#submit_btn").click();
-    },2000);
-
-    document.location.reload();
+    },1000);
 })();
